@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+        background-color: #D99573;
+}
+
+h1{
+        color: #A52901;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 70px;
+         text-shadow: 0px 0px 12px #f5d42e;
+        font-weight: bold;
+}
+
+.image-circle{
+        border-radius: 10%;
+}
+
+li{
+        font-family: 'Courier New', Courier, monospace;
+        color: #7C4318;
+}
+
+.box {
+        background-color: #D5C385;
+        color: #E2A142;
+}
+
+.round {
+        border-radius: 10px;
+}
